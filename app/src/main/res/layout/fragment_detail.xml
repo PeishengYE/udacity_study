@@ -12,7 +12,7 @@
             android:layout_height="wrap_content"
             android:text="Tomorrow" />
 
-        <TextView android:id="@+id/detail_data_textview"
+        <TextView android:id="@+id/detail_date_textview"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Aug 14"/>
